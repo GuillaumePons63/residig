@@ -1,18 +1,12 @@
 <template>
-    <div class="home">
+    <main>
         <h1>Bienvenue sur Residig</h1>
         <p>Ceci est la page d'accueil.</p>
-    </div>
+    </main>
 </template>
 
 <script setup>
 // Pas de logique pour cette page simple
 </script>
 
-<style scoped>
-.home {
-    max-width: 600px;
-    margin: 40px auto;
-    text-align: center;
-}
-</style>
+<style scoped></style>

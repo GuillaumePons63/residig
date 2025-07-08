@@ -1,0 +1,26 @@
+:root {
+  --main-color: #3DBC49;
+  --background-color: #0E0563;
+  
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('./font/NotoNormal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('./font/NotoItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+body {
+    color : var(--main-color);
+    background-color: var(--background-color);
+    font-family: Noto Sans, sans-serif  ;
+}

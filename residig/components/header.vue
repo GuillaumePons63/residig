@@ -1,6 +1,16 @@
 <template>
-    <header class="header">
-        <h1>Mon Application</h1>
+    <header>
+        <div class="header-content">
+            <div class="header-text">
+                <h1>Residig</h1>
+                <p>Jeu sérieux en ligne et en réel</p>
+            </div>
+            <div class="header-logo">
+                <img src="~/assets/img/logo.svg" alt="Logo Residig" />
+            </div>
+        </div>
+
+
         <nav>
             <ul>
                 <li><a href="#">Accueil</a></li>
@@ -16,16 +26,45 @@
 </script>
 
 <style scoped>
-.header {
+.header-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 32px;
-    background-color: #2c3e50;
-    color: #fff;
+    flex-direction: row;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-image: url('~/assets/img/backgroundHeader.png');
+    background-size: cover;
+    margin: 0;
+    min-height: 240px;
+    width: 100vw;
 }
 
-.header h1 {
+.header-text {
+    margin: 0;
+    font-size: 1.2rem;
+    padding: 20px 20px;
+}
+
+.header-logo img {
+    width: 150px;
+    height: auto;
+
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+    background-size: cover;
+    background-position: center;
+
+}
+
+header h1 {
     margin: 0;
     font-size: 1.5rem;
 }
@@ -39,9 +78,9 @@ nav ul {
 }
 
 nav a {
-    color: #fff;
     text-decoration: none;
     font-weight: 500;
+    color: white;
 }
 
 nav a:hover {
