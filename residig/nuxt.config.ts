@@ -4,5 +4,13 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
     '~/assets/main.css'
-  ]
+  ],
+  modules: [
+    '@nuxt/content',
+  ],
+  content: {
+    renderer :{
+      anchorLinks: false,
+      }
+  }
 })
