@@ -12,17 +12,51 @@
 
 
         <nav>
-            <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">À propos</a></li>
-                <li><a href="#">Contact</a></li>
+            <ul v-if="data">
+                <li>
+                    <NuxtLink to="/">Accueil</NuxtLink>
+                </li>
+                <li v-for="item in filteredPages" :key="item.path">
+                    <NuxtLink :to="item.path">{{ item.title }}</NuxtLink>
+                </li>
             </ul>
         </nav>
     </header>
 </template>
 
 <script setup>
-// Pas de logique spécifique pour ce header simple
+// Essayons de récupérer tout le contenu pour voir la structure
+const { data } = await useAsyncData('navigation', () =>
+    queryCollection('pages').all()
+)
+
+console.log('value 1', data.value)
+
+
+// Fonction pour vérifier si une page commence par un chiffre
+const hasNumericPrefix = (page) => {
+    if (!page || !page.path) return false
+    const fileName = page.path.split('/').pop()
+    return /^\d/.test(fileName)
+}
+
+// Fonction pour filtrer les pages avec un chiffre en début de nom
+const getFilteredPages = (pages) => {
+    if (!pages || !Array.isArray(pages) || pages.length === 0) return []
+
+    // Filtrer seulement les pages du dossier /pages/ qui commencent par un chiffre
+    const pageFiles = pages.filter(page => {
+        return page.path &&
+            page.path.startsWith('/pages/') &&
+            hasNumericPrefix(page)
+    })
+
+    return pageFiles
+}
+
+// Computed property pour les pages filtrées
+const filteredPages = computed(() => getFilteredPages(data.value))
+
 </script>
 
 <style scoped>
@@ -35,6 +69,9 @@
     border-radius: 8px;
     background-image: url('~/assets/img/backgroundHeader.png');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     margin: 0;
     min-height: 240px;
     width: 100vw;
