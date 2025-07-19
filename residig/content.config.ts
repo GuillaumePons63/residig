@@ -13,7 +13,12 @@ export default defineContentConfig({
     index: defineCollection({
       type: 'page',
       source: '*.md',
-      
     }),
-  }
-})
+    livres: defineCollection({
+      type: 'page', 
+      source: 'livres/*.md',
+      schema: z.object({
+        img: z.string().optional(),        
+    })
+    })
+  }})
