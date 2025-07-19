@@ -1,6 +1,7 @@
 ---
 title: "ResIdig - Jeu sérieux pour développer votre potentiel"
 description: "Découvrez ResIdig, un jeu sérieux innovant qui vous accompagne dans le développement de votre potentiel techno-créatif à travers des expériences interactives et des parcours personnalisés."
+isInNav: false
 ---
 
 # ResIdig : Révélez votre potentiel techno-créatif

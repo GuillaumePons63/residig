@@ -1,1 +1,0 @@
-LEs fichier qui ont un nom qui commence par un chiffre sont dans la navigation, pas les autres.

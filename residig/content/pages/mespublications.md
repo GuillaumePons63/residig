@@ -1,6 +1,7 @@
 ---
-title: Nos publications
+title: Publications
 description: Livre et écrit digitales
+isInNav: true
 ---
 
 # Mes publications
