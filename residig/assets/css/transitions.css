@@ -1,0 +1,52 @@
+/* Transitions de pages */
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.4s ease-in-out;
+}
+
+.page-enter-from {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.page-leave-to {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+
+/* Transition fade pour les liens */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/* Animation pour les éléments au scroll */
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-on-scroll {
+  animation: slideInUp 0.6s ease-out;
+}
+
+/* Hover transitions pour les boutons */
+.btn-transition {
+  transition: all 0.3s ease;
+}
+
+.btn-transition:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}

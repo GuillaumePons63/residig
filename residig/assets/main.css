@@ -30,3 +30,17 @@ main {
     margin: 0 auto;
     padding: 20px;
 }
+
+@media screen and (max-width: 800px) {
+
+    main {
+        padding: 5px;
+        width:85vw;
+    }
+
+    img {
+        width:80vw;
+        height: auto;
+    }
+    
+}

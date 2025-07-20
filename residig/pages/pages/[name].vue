@@ -34,10 +34,38 @@ useSeoMeta({
 section {
     padding: 20px;
     margin: 0 auto;
-    max-width: 800px;
+    width: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+img {
+    display: block;
+    width: 80vw;
+    height: auto;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    section {
+        padding: 15px 10px;
+        width: 100vw;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        width: 80vw;
+        padding: 10px 8px;
+    }
+}
+
+@media (min-width: 1200px) {
+    section {
+        max-width: 1000px;
+        padding: 30px;
+    }
 }
 </style>

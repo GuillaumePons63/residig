@@ -1,13 +1,23 @@
 <template>
     <footer class="footer">
-        <p>&copy; 2024 Mon Site. Tous droits réservés.</p>
+        <nuxt-link to="/pages/mentions-legales" class="footer-link">Mentions légales</nuxt-link>
+        <p>&copy; 2025 RESIDIG. Tous droits réservés.</p>
     </footer>
 </template>
 
 <style scoped>
+.footer-link {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
 .footer {
     text-align: center;
-    padding: 1rem 0;
+    padding: 0;
     position: relative;
     bottom: 0;
     width: 100%;

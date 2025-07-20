@@ -19,6 +19,9 @@
                 <li v-for="item in data" :key="item.path">
                     <NuxtLink :to="item.path">{{ item.title }}</NuxtLink>
                 </li>
+                <li>
+                    <NuxtLink to="/contact">Contact</NuxtLink>
+                </li>
             </ul>
         </nav>
     </header>
@@ -99,5 +102,24 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+}
+
+@media screen and (max-width: 800px) {
+    .header-content {
+        align-items: center;
+        padding: 0px;
+
+    }
+
+    .header-logo img {
+        width: 60px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
 }
 </style>
