@@ -1,0 +1,52 @@
+<template>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-150 -150 300 300" width="200" height="200">
+
+        <!-- Cercle -->
+        <circle cx="0" cy="0" r="100" stroke="#00e676" stroke-width="8" fill="none" />
+        <!-- Croix -->
+        <line x1="-100" y1="0" x2="100" y2="0" stroke="#00e676" stroke-width="8" />
+        <line x1="0" y1="-100" x2="0" y2="100" stroke="#00e676" stroke-width="8" />
+
+        <!-- Flèche haut (originale) -->
+        <g id="arrow-up" fill="#00e676">
+            <polygon points="-10,-115 0,-135 10,-115" />
+            <rect x="-5" y="-115" width="10" height="20" />
+        </g>
+
+        <!-- Flèche droite (rotation 90°) -->
+        <g id="arrow-right" fill="#00e676" transform="rotate(90)">
+            <polygon points="-10,-115 0,-135 10,-115" />
+            <rect x="-5" y="-115" width="10" height="20" />
+        </g>
+
+        <!-- Flèche bas (rotation 180°) -->
+        <g id="arrow-down" fill="#00e676" transform="rotate(180)">
+            <polygon points="-10,-115 0,-135 10,-115" />
+            <rect x="-5" y="-115" width="10" height="20" />
+        </g>
+
+        <!-- Flèche gauche (rotation 270°) -->
+        <g id="arrow-left" fill="#00e676" transform="rotate(270)">
+            <polygon points="-10,-115 0,-135 10,-115" />
+            <rect x="-5" y="-115" width="10" height="20" />
+        </g>
+
+    </svg>
+
+</template>
+
+<script setup>
+
+</script>
+
+<style scoped>
+.logo-nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+</style>

@@ -3,15 +3,14 @@
         <div class="header-content">
             <div class="header-text">
                 <h1>Residig</h1>
-                <p>Jeu sérieux en ligne et en réel</p>
             </div>
             <div class="header-logo">
-                <img src="~/assets/img/logo.svg" alt="Logo Residig" />
+                <LogoNav />
             </div>
         </div>
 
 
-        <nav>
+        <!-- <nav>
             <ul v-if="data">
                 <li>
                     <NuxtLink to="/">Accueil</NuxtLink>
@@ -23,7 +22,10 @@
                     <NuxtLink to="/contact">Contact</NuxtLink>
                 </li>
             </ul>
-        </nav>
+        </nav> -->
+        <div>
+            <em class="header-subtitle">Jeu sérieux en ligne et en réel</em>
+        </div>
     </header>
 </template>
 
@@ -83,7 +85,8 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 2rem;
+    background-color: rgba(5, 22, 86, 0.9);
 }
 
 nav ul {
@@ -104,16 +107,25 @@ nav a:hover {
     text-decoration: underline;
 }
 
+em {
+    font-size: 1.3em;
+    font-weight: bold;
+
+}
+
 @media screen and (max-width: 800px) {
     .header-content {
         align-items: center;
         padding: 0px;
+        flex-direction: column;
 
     }
 
-    .header-logo img {
-        width: 60px;
+    .header-logo {
+        margin-top: 20px;
     }
+
+
 
     nav ul {
         flex-direction: column;
