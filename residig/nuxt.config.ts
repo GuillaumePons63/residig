@@ -12,7 +12,8 @@ export default defineNuxtConfig({
   content: {
     renderer :{
       anchorLinks: false,
-      }
+      },
+    experimental: { sqliteConnector: 'native'}  
   },
   app: {
     head: {

@@ -47,7 +47,7 @@ console.log('value 1', data.value)
     flex-direction: row;
     padding: 16px 24px;
     border-radius: 8px;
-    background-image: url('~/assets/img/backgroundHeader.png');
+    background-image: url('/asset/backgroundHeader.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

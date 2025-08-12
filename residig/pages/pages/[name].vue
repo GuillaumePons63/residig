@@ -34,7 +34,6 @@ useSeoMeta({
 section {
     padding: 20px;
     margin: 0 auto;
-    width: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
