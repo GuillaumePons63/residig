@@ -2,7 +2,8 @@
     <header>
         <div class="header-content">
             <div class="header-text">
-                <h1>Residig</h1>
+                <h1> Qui es-tu ? </h1>
+
             </div>
             <div class="header-logo">
                 <LogoNav />
@@ -24,7 +25,9 @@
             </ul>
         </nav> -->
         <div>
+            <h2>Residig</h2>
             <em class="header-subtitle">Jeu sérieux en ligne et en réel</em>
+
         </div>
     </header>
 </template>
@@ -86,8 +89,9 @@ header {
 header h1 {
     margin: 0;
     font-size: 2rem;
-    background-color: rgba(5, 22, 86, 0.9);
+    /* background-color: rgba(5, 22, 86, 0.9); */
 }
+
 
 nav ul {
     list-style: none;
@@ -118,6 +122,7 @@ em {
         align-items: center;
         padding: 0px;
         flex-direction: column;
+        text-align: center;
 
     }
 

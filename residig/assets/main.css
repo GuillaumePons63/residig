@@ -23,6 +23,7 @@ body {
     color : var(--main-color);
     background-color: var(--background-color);
     font-family: Noto Sans, sans-serif  ;
+    text-align:center;
 }
 
 main {
