@@ -2,7 +2,10 @@
     <header>
         <div class="header-content">
             <div class="header-text">
-                <h1> Qui es-tu ? </h1>
+                <NuxtLink to="/">
+                    <h2>Qui es-tu</h2>
+                </NuxtLink>
+
 
             </div>
             <div class="header-logo">
@@ -47,10 +50,10 @@ console.log('value 1', data.value)
 <style scoped>
 .header-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     flex-direction: row;
-    padding: 16px 24px;
+
     border-radius: 8px;
     background-image: url('/asset/backgroundHeader.png');
     background-size: cover;
@@ -59,7 +62,8 @@ console.log('value 1', data.value)
     background-attachment: fixed;
     margin: 0;
     min-height: 240px;
-    width: 100vw;
+    width: 100%;
+
 }
 
 .header-text {
@@ -80,7 +84,6 @@ header {
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
-
     background-size: cover;
     background-position: center;
 

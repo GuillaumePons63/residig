@@ -1,7 +1,6 @@
 ---
 title: A Propos
-Description: A trouver
-isInNav: true
+description: A trouver
 ---
 
 # Qui Sommes Nous ?

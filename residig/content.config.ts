@@ -6,10 +6,7 @@ export default defineContentConfig({
     pages: defineCollection({
       type: 'page',
       source: 'pages/*.md',
-      schema: z.object({
-        isInNav: z.boolean().optional()
-      })
-    }),
+  }),
     index: defineCollection({
       type: 'page',
       source: '*.md',
