@@ -6,9 +6,24 @@ export default defineNuxtConfig({
     '~/assets/main.css',
     '~/assets/css/transitions.css'
   ],
-  modules: [
-    '@nuxt/content',
-  ],
+  modules: 
+    ['@nuxt/content', 
+    ['nuxt-mail', 
+      {
+         message: {
+        to: process.env.MAIL_TO,
+      },
+      smtp: {
+        host: process.env.MAIL_HOST,
+        port: process.env.MAIL_PORT,
+        auth: {
+          user: process.env.MAIL_USER,
+          pass: process.env.MAIL_PASSW
+        },
+      },
+
+  }]
+],
   content: {
     renderer :{
       anchorLinks: false,

@@ -10,23 +10,7 @@
                     <img src="~/assets/img/logo.svg" alt="Logo Residig" />
                 </div>
             </div>
-            <div class="contact-info">
-                <p>Pour toute question ou information, n'hésitez pas à nous contacter via le formulaire ci-dessous.</p>
-
-                <form class="contact-form">
-                    <label for="name">Nom :</label>
-                    <input type="text" id="name" name="name" required />
-
-                    <label for="email">Email :</label>
-                    <input type="email" id="email" name="email" required />
-
-                    <label for="message">Message :</label>
-                    <textarea id="message" name="message" rows="5" required></textarea>
-
-                    <button type="submit">Envoyer</button>
-                </form>
-            </div>
-
+            <ContactForm />
 
             <div class="contact-links">
                 <a href="https://calendly.com/votre-rdv" target="_blank" rel="noopener" class="rdv-link">
@@ -47,10 +31,12 @@
 </template>
 
 <script setup>
+import ContactForm from '~/components/contactForm.vue';
+
 // Pas de logique spécifique pour ce formulaire de contact simple
 </script>
 
-<style scoped>
+<style>
 .contact-page {
     max-width: 700px;
     margin: 40px auto;

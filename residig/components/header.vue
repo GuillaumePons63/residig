@@ -13,20 +13,6 @@
             </div>
         </div>
 
-
-        <!-- <nav>
-            <ul v-if="data">
-                <li>
-                    <NuxtLink to="/">Accueil</NuxtLink>
-                </li>
-                <li v-for="item in data" :key="item.path">
-                    <NuxtLink :to="item.path">{{ item.title }}</NuxtLink>
-                </li>
-                <li>
-                    <NuxtLink to="/contact">Contact</NuxtLink>
-                </li>
-            </ul>
-        </nav> -->
         <div>
             <h2>Residig</h2>
             <em class="header-subtitle">Jeu sérieux en ligne et en réel</em>
@@ -36,12 +22,6 @@
 </template>
 
 <script setup>
-// Essayons de récupérer tout le contenu pour voir la structure
-const { data } = await useAsyncData('navigation', () =>
-    queryCollection('pages').where('isInNav', '=', true).all()
-)
-
-console.log('value 1', data.value)
 
 
 

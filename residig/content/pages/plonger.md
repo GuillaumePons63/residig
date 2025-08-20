@@ -14,3 +14,5 @@ Booste ton imaginaire et tes horizons de vie
 [![Couverture livre Digitalisme](/livres/digitalisme.png)](/livres/digitalisme)
 
 [![Couverture livre Esthetic](/livres/esthetic.png)](/livres/esthetic)
+
+[![Voir la suite](/asset/buttonLight.png)](/pages/jouer)

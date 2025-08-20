@@ -25,8 +25,14 @@ useSeoMeta({
     cursor: pointer;
 }
 
+:deep(a) {
+    text-decoration: none;
+    color: inherit;
+    padding-top: 0;
+}
+
 /* Effet de survol */
-:deep(img:hover) {
+:deep(a:hover) {
     transform: scale(1.05);
     filter: brightness(0.8);
     box-shadow: none;

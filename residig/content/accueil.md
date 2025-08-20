@@ -10,4 +10,4 @@ Nos publications digitales, nos articles peuvent t’aider à évoluer dans
 Le connais-toi
 Jeu-parcours sur 3 niveaux pour augmenter ton autonomie, comprendre ta singularité, acquérir une confiance en toi-même, développer ton intuition et mener “Cent combats sans risque”
 
-[![Découvrir RESIDIG](/asset/buttonLight.png)](/pages/residig)
+[![Découvrir RESIDIG](/asset/buttonLight.png) _Voir la suite_](/pages/accueil)
