@@ -3,7 +3,7 @@ title: Jouer
 description: Il conviens d'ajouter une description ici
 ---
 
-# Plonge dans l'univers de tes représentation
+# Plonge dans l'univers de tes représentations
 
 ## Ψ Ta première plongée en toi-même
 
@@ -17,4 +17,4 @@ description: Il conviens d'ajouter une description ici
 
 ![Image représentant un tintle](/img/tintleX.png)
 
-[![Voir la suite](/asset/buttonLight.png)](/pages/contribuer)
+[Voir la suite](/pages/contribuer)

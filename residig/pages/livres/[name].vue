@@ -23,7 +23,7 @@ watchEffect(() => {
 })
 
 useSeoMeta({
-    title: () => data.value?.title ?? 'Residig',
+    title: () => data.value?.title ?? 'ResIdig',
     description: () => data.value?.description ?? '',
 })
 

@@ -39,14 +39,14 @@
         <NuxtLink v-if="downEnabled" :to="downLink">
             <g id="arrow-down" fill="#00e676" transform="rotate(180)">
                 <text x="0" y="-110" text-anchor="middle" font-size="40" transform="rotate(-180 0 -140)">{{ downText
-                }}</text>
+                    }}</text>
                 <polygon points="-10,-115 0,-135 10,-115" />
                 <rect x="-5" y="-115" width="10" height="20" />
             </g>
         </NuxtLink>
         <g v-else id="arrow-down" fill="#00e676" transform="rotate(180)">
             <text x="0" y="-110" text-anchor="middle" font-size="40" transform="rotate(-180 0 -140)">{{ downText
-            }}</text>
+                }}</text>
             <polygon points="-10,-115 0,-135 10,-115" />
             <rect x="-5" y="-115" width="10" height="20" />
         </g>
@@ -76,7 +76,7 @@
 
 <script setup>
 const props = defineProps({
-    upText: { type: String, default: 'Contact' },
+    upText: { type: String, default: 'Contacter' },
     upLink: { type: String, default: '/contact' },
     upEnabled: { type: Boolean, default: true },
     rightText: { type: String, default: 'Jouer' },

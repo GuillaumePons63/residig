@@ -1,7 +1,40 @@
 Pages à créer :
 
-Accueil/ a propos
-Mentions légales
-Le connais-toi
-Publication et article
-code processing
+ajout paghe partenaria en dessous
+
+Page contact, 
+remettre le lien du site sous le logo
+cnanger regle responsive
+Grossir logo sur grand écran
+Recenter en version mobile
+
+
+
+Changer le favicon
+Fond transparent rose des vents
+page jouer grossier le titre
+
+Ajouter barre d'abjectifs
+
+voir la suite blanc partout
+Coller pour les boutons
+accuel ok
+a propos => image couverture en rond
+Plonger => echiquier
+Jouer => logo avec chiffres
+Contribuer => mettre photo avec contacter en dessous
+
+
+Changer image jouer li-in
+
+ajout pages jouer photo clicable
+
+
+Page a propos reprendre figma respect tailles des polices et mise en soulignement
+A porpos : Jouer et plonger cliquable
+Cartographie ta vie = page echiquier
+Et 2 autres pareil
+
+et faire image cliquable vers nouvelle page dans jouer
+
+Livre digitalsme lien vers édition à ajouter.

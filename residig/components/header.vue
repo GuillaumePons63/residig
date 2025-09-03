@@ -3,7 +3,7 @@
         <div class="header-content">
             <div class="header-text">
                 <NuxtLink to="/">
-                    <h2>Qui es-tu</h2>
+                    <h2>Qui es-tu ?</h2>
                 </NuxtLink>
 
 
@@ -14,8 +14,8 @@
         </div>
 
         <div>
-            <h2>Residig</h2>
-            <em class="header-subtitle">Jeu sérieux en ligne et en réel</em>
+            <h2>ResIdig</h2>
+            <em class="header-subtitle">Jeu Sérieux en Ligne et en Réel</em>
 
         </div>
     </header>
@@ -28,6 +28,11 @@
 </script>
 
 <style scoped>
+h2 {
+    color: var(--main-color);
+}
+
+
 .header-content {
     display: flex;
     justify-content: space-around;

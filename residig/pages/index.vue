@@ -15,6 +15,11 @@ useSeoMeta({
 </script>
 
 <style scoped>
+.strong {
+    font-size: 1.5em;
+}
+
+
 /* Centrage de l'image */
 :deep(img) {
     display: block;

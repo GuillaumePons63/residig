@@ -3,8 +3,6 @@ title: A Propos
 description: A trouver
 ---
 
-# ResIdig
-
 **Nous sommes une convergence entre art et technologie**
 
 Résultat de l'exploration de notre pratique du code créatif avec processing et de notre rapport à la représentation.

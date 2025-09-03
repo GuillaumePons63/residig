@@ -7,7 +7,7 @@
                     <img src="/photoProfil.jpg" alt="Photo de contact" class="contact-image" />
                 </div>
                 <div class="header-logo">
-                    <img src="~/assets/img/logo.svg" alt="Logo Residig" />
+                    <img src="~/assets/img/logo.svg" alt="Logo ResIdig" />
                 </div>
             </div>
             <ContactForm />

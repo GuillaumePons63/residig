@@ -23,14 +23,14 @@ watchEffect(() => {
 })
 
 useSeoMeta({
-    title: () => data.value?.title ?? 'Residig',
+    title: () => data.value?.title ?? 'ResIdig',
     description: () => data.value?.description ?? '',
 })
 
 
 </script>
 
-<style scoped>
+<style>
 section {
     padding: 20px;
     margin: 0 auto;
@@ -42,8 +42,8 @@ section {
 
 img {
     display: block;
-    width: 80vw;
     height: auto;
+    margin: auto;
 }
 
 /* Responsive design */

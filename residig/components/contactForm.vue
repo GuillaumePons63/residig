@@ -1,6 +1,6 @@
 <template>
     <div class="contact-info">
-        <p>Pour toute question ou information, n'hésitez pas à nous contacter via le formulaire ci-dessous.</p>
+        <p>Pour toute question ou information, n'hésitez pas à nous contacter via le formulaire ci-dessous</p>
 
         <form class="contact-form" @submit.prevent="handleSubmit">
             <label for="name">Nom :</label>
@@ -71,7 +71,6 @@ async function handleSubmit() {
     padding: 1rem;
     border: 1px solid #ccc;
     border-radius: 8px;
-    background-color: #f9f9f9;
 }
 
 .contact-form {

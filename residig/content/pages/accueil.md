@@ -30,7 +30,7 @@ Résultat de l’exploration de notre pratique du **code créatif** avec _Proces
 
 ### Avec Nous : Notre spécificité
 
-Residig offre un mix unique de contenus créatifs, d’expériences interactives et de perspectives pertinentes pour optimiser la découverte de **SOI** en tant que potentiel créatif.
+ResIdig offre un mix unique de contenus créatifs, d’expériences interactives et de perspectives pertinentes pour optimiser la découverte de **SOI** en tant que potentiel créatif.
 
 ---
 
@@ -54,4 +54,8 @@ _Le Connais-Toi Ψ+Ψ_ est une découverte des 12 vertus, ces qualités de l’�
 _Le Connais-Toi Ψ+Ψ+Ψ_ est la possibilité de réaliser ton logo-signature individualisé et compatible NFT :  
 → **RÉALISE TON TINTLE**
 
-[![Voir la suite](/asset/buttonLight.png)](/pages/plonger)
+[![Voir la suite](/img/chessBoard.png)](/pages/plonger)
+
+<p style="text-align:center;">
+  <a href="/pages/plonger">Voir la suite</a>
+</p>
