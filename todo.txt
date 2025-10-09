@@ -1,6 +1,6 @@
 Pages à créer :
 
-ajout paghe partenaria en dessous
+ajout page partenariat en dessous --> ok menu mais pas de contenu pour l'instant
 
 Page contact, 
 remettre le lien du site sous le logo
@@ -8,13 +8,13 @@ cnanger regle responsive
 Grossir logo sur grand écran
 Recenter en version mobile
 
+==> normalement ok
 
 
-Changer le favicon
-Fond transparent rose des vents
-page jouer grossier le titre
+Changer le favicon --> ok
+Fond transparent rose des vents --> ok
+page jouer grossier le titre ==> ok
 
-Ajouter barre d'abjectifs
 
 voir la suite blanc partout
 Coller pour les boutons
@@ -24,8 +24,6 @@ Plonger => echiquier
 Jouer => logo avec chiffres
 Contribuer => mettre photo avec contacter en dessous
 
-
-Changer image jouer li-in
 
 ajout pages jouer photo clicable
 
@@ -38,3 +36,7 @@ Et 2 autres pareil
 et faire image cliquable vers nouvelle page dans jouer
 
 Livre digitalsme lien vers édition à ajouter.
+
+
+
+Ajouter barre d'objectifs

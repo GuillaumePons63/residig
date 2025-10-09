@@ -31,6 +31,10 @@ useSeoMeta({
 </script>
 
 <style>
+.tintleX {
+    height: 300px !important;
+}
+
 section {
     padding: 20px;
     margin: 0 auto;
@@ -44,6 +48,7 @@ img {
     display: block;
     height: auto;
     margin: auto;
+    max-width: 355px;
 }
 
 /* Responsive design */

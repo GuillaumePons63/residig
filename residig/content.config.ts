@@ -3,7 +3,7 @@ import { z } from 'zod'
 
 export default defineContentConfig({
   collections: {
-    pages: defineCollection({
+    pages: defineCollection({      
       type: 'page',
       source: 'pages/*.md',
   }),
@@ -16,6 +16,13 @@ export default defineContentConfig({
       source: 'livres/*.md',
       schema: z.object({
         img: z.string().optional(),        
-    })
-    })
-  }})
+    }),
+  }),
+jeux: defineCollection({
+  type: 'page', 
+  source: 'jeux/*.md',
+  schema: z.object({
+    img: z.string().optional(),
+  }),
+})
+},})

@@ -1,6 +1,8 @@
 <template>
     <footer class="footer">
         <nuxt-link to="/pages/mentions-legales" class="footer-link">Mentions légales</nuxt-link>
+        <br />
+        <nuxt-link to="/pages/partenariat" class="footer-link">Partenariat</nuxt-link>
         <p>&copy; 2025 RESIDIG. Tous droits réservés.</p>
     </footer>
 </template>

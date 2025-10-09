@@ -43,6 +43,11 @@ section {
     justify-content: center;
 }
 
+
+main {
+    flex-direction: column !important;
+}
+
 .date-image {
     display: block;
     margin: 30px auto 0 auto;

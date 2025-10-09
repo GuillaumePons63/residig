@@ -1,17 +1,17 @@
 <template>
     <main class="contact-page">
-        <h1>Contactez-nous</h1>
         <div class="contact-content">
             <div class="contact-photo-container">
                 <div class="photo">
                     <img src="/photoProfil.jpg" alt="Photo de contact" class="contact-image" />
                 </div>
                 <div class="header-logo">
-                    <img src="~/assets/img/logo.svg" alt="Logo ResIdig" />
+                    <img src="~/assets/img/logo.svg" alt="Logo ResIdig" /> <br />
+                    <h2>ResIdig.fr</h2>
                 </div>
             </div>
+            <h1>Contactez-nous</h1>
             <ContactForm />
-
             <div class="contact-links">
                 <a href="https://calendly.com/votre-rdv" target="_blank" rel="noopener" class="rdv-link">
                     Prendre un RDV
@@ -37,18 +37,26 @@ import ContactForm from '~/components/contactForm.vue';
 </script>
 
 <style>
+h1 {
+    text-align: center;
+    color: var(--main-color);
+    margin-bottom: 20px;
+}
+
 .contact-page {
     max-width: 700px;
     margin: 40px auto;
     padding: 24px;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+    flex-direction: column;
 }
 
 .contact-content {
     display: flex;
     gap: 100px;
     align-items: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -68,7 +76,7 @@ import ContactForm from '~/components/contactForm.vue';
 
 .header-logo img {
     display: block;
-    width: 100px;
+    width: 150px;
 }
 
 .contact-image {
@@ -167,8 +175,8 @@ import ContactForm from '~/components/contactForm.vue';
     .contact-content {
         flex-direction: column;
         align-items: center;
-        justify-content: center;
         flex-wrap: no-wrap;
+        gap: 0
     }
 
     .contact-page {
@@ -182,6 +190,7 @@ import ContactForm from '~/components/contactForm.vue';
     .contact-photo-container {
         flex-direction: column;
         align-items: center;
+        height: 550px;
     }
 
     .contact-image {
