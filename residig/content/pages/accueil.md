@@ -38,11 +38,11 @@ Accédez à nos publications et articles, une aide pour évoluer dans le parcour
 
 ## Jeu interactif
 
-**Niveau 1**:br*Le Connais-Toi Ψ* est un parcours qui se joue du passé, présent et futur, pour cibler et t’orienter dans l’espace-temps : :br → **CARTOGRAPHIE TA VIE**
+**Niveau 1**:br *Le Connais-Toi Ψ* est un parcours qui se joue du passé, présent et futur, pour cibler et t’orienter dans l’espace-temps : :br → **CARTOGRAPHIE TA VIE**
 
-**Niveau 2**:br*Le Connais-Toi Ψ+Ψ* est une découverte des 12 vertus, ces qualités de l’âme à cultiver, pour manger mieux, respirer mieux, digérer mieux et agir en maîtrise de tes émotions : :br → **DÉCOUVRE TES VERTUS**
+**Niveau 2**:br *Le Connais-Toi Ψ+Ψ* est une découverte des 12 vertus, ces qualités de l’âme à cultiver, pour manger mieux, respirer mieux, digérer mieux et agir en maîtrise de tes émotions : :br → **DÉCOUVRE TES VERTUS**
 
-**Niveau 3**:br*Le Connais-Toi Ψ+Ψ+Ψ* est la possibilité de réaliser ton logo-signature individualisé et compatible NFT : :br → **RÉALISE TON TINTLE**
+**Niveau 3**:br *Le Connais-Toi Ψ+Ψ+Ψ* est la possibilité de réaliser ton logo-signature individualisé et compatible NFT : :br → **RÉALISE TON TINTLE**
 
 [![Voir la suite](/img/chessboard.png)](/pages/plonger)
 
