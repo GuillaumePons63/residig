@@ -28,8 +28,17 @@ export default defineNuxtConfig({
     renderer :{
       anchorLinks: false,
       },
-    experimental: { sqliteConnector: 'native'}  
-  },
+    experimental: { sqliteConnector: 'native'},  
+    preview: {
+      api: 'https://api.nuxt.studio',
+      // Utile sur hébergement "custom" (o2switch) pour aider Studio à te reconnaître :
+      gitInfo: {
+        name: 'GuillaumeWeb',           // ex: 'site-vitrine'
+        owner: 'GuillaumePons63',    // ex: 'guillaumeweb'
+        url: 'https://github.com/GuillaumePons63/residig'
+      }
+    },
+    },
   app: {
     head: {
       meta: [
