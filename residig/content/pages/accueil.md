@@ -54,7 +54,7 @@ _Le Connais-Toi Ψ+Ψ_ est une découverte des 12 vertus, ces qualités de l’�
 _Le Connais-Toi Ψ+Ψ+Ψ_ est la possibilité de réaliser ton logo-signature individualisé et compatible NFT :  
 → **RÉALISE TON TINTLE**
 
-[![Voir la suite](/img/chessBoard.png)](/pages/plonger)
+[![Voir la suite](/img/chessboard.png)](/pages/plonger)
 
 <p style="text-align:center;">
   <a href="/pages/plonger">Voir la suite</a>
