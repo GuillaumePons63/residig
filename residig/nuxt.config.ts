@@ -34,8 +34,8 @@ export default defineNuxtConfig({
       // Utile sur hébergement "custom" (o2switch) pour aider Studio à te reconnaître :
       gitInfo: {
         name: 'residig',           
-        owner: 'GuillaumePons63',    
-        url: 'https://github.com/GuillaumePons63/residig'
+        owner: 'u2405562098-cloud',    
+        url: 'https://github.com/u2405562098-cloud/residig'
       }
     },
     },
