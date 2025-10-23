@@ -1,5 +1,5 @@
 ---
-title: connais-toi
+title: Connais-toi
 description: Explore l’univers ResIdig, un mix unique de contenus innovants,
   d’expériences interactives et de parcours introspectifs pour révéler ta
   créativité et ton autonomie.

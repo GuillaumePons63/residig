@@ -1,6 +1,7 @@
 ---
 title: Jeux des vertus
-description: Les bases et techniques pour mieux communiquer dans la vie personnelle et professionnelle.
+description: Les bases et techniques pour mieux communiquer dans la vie
+  personnelle et professionnelle.
 img: /img/RosedesVertus.png
 ---
 

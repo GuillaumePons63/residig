@@ -1,6 +1,7 @@
 ---
 title: Communiquer
-description: Les bases et techniques pour mieux communiquer dans la vie personnelle et professionnelle.
+description: Les bases et techniques pour mieux communiquer dans la vie
+  personnelle et professionnelle.
 img: /livres/communiquer.png
 ---
 
@@ -14,17 +15,22 @@ La communication permet de partager des informations, de résoudre des conflits 
 
 ## Les clés d’une bonne communication
 
-- **Écoute active** : Porter attention à l’autre sans interrompre.
-- **Clarté** : Utiliser des mots simples et précis.
-- **Empathie** : Se mettre à la place de l’autre pour mieux comprendre son point de vue.
-- **Feedback** : Donner et recevoir des retours constructifs.
+**Écoute active** : Porter attention à l’autre sans interrompre.
+
+**Clarté** : Utiliser des mots simples et précis.
+
+**Empathie** : Se mettre à la place de l’autre pour mieux comprendre son point de vue.
+
+**Feedback** : Donner et recevoir des retours constructifs.
 
 ## Exercices pratiques
 
-1. Reformulez ce que dit votre interlocuteur pour vérifier votre compréhension.
-2. Pratiquez l’écoute sans juger ni interrompre.
-3. Exprimez vos besoins de façon assertive.
+Reformulez ce que dit votre interlocuteur pour vérifier votre compréhension.
+
+Pratiquez l’écoute sans juger ni interrompre.
+
+Exprimez vos besoins de façon assertive.
 
 ---
 
-_Image : communication.jpg_
+*Image : communication.jpg*
