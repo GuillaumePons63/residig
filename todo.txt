@@ -3,7 +3,7 @@ Pages à créer :
 ajout page partenariat en dessous --> ok menu mais pas de contenu pour l'instant
 
 Page contact, 
-remettre le lien du site sous le logo
+remettre le lien du site sous le logo ==>ok
 cnanger regle responsive
 Grossir logo sur grand écran
 Recenter en version mobile
@@ -40,3 +40,6 @@ Livre digitalsme lien vers édition à ajouter.
 
 
 Ajouter barre d'objectifs
+
+
+Création d'un comtpe google pour partage nuxt studio
