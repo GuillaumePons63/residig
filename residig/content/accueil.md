@@ -1,8 +1,8 @@
 ---
 title: Le connais-toi
-description: "Explore l’univers ResIdig, un mix unique de contenus innovants
-  #processing, d’expériences interactives et de parcours introspectifs pour
-  révéler ton potentiel techno-créatif et ton autonomie"
+description: Explore ResIdig, un mix unique de contenus innovant, d’expériences
+  interactives et de parcours introspectifs pour révéler ton potentiel
+  techno-créatif et ton autonomie
 ---
 
 **ResIdig** offre un mix unique de contenus innovants, d’expériences interactives , et d’éclairages pertinents pour optimiser ton potentiel techno-créatif.
