@@ -5,74 +5,89 @@ description: Découvrez ResIdig, un jeu sérieux innovant qui vous accompagne da
   interactives et des parcours personnalisés.
 ---
 
-# ResIdig : Révélez votre potentiel techno-créatif
+# ResIdig
+
+# Révélez votre
+
+# potentiel
+
+# techno-créatIf
 
 ## Qu'est-ce que ResIdig ?
 
-ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour vous accompagner dans la découverte et le développement de votre potentiel créatif et technique.
+ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour vous accompagner dans la découverte et le développement de votre potentiel créatif et technique
 
 ### Une approche innovante
 
 Notre plateforme combine :
 
-- **Jeu sérieux** : Apprentissage ludique et engageant
-- **Expériences interactives** : Contenus immersifs et participatifs
-- **Parcours personnalisés** : Adaptation à votre profil et vos objectifs
-- **Outils d'introspection** : Pour mieux vous connaître et évoluer
+**Jeu Sérieux**
 
-## Le parcours "Connais-toi"
+**Expériences interactives**
+
+**Parcours personnalisés**
+
+**Outils d'introspection**
+
+## Le parcours :
+
+## Le connais-toi
 
 ### 3 niveaux pour une transformation complète
 
-#### 🎯 **Niveau 1 : Découverte**
+#### 🎯 **Niveau 1 : CIBLER**
 
-- Exploration de votre personnalité créative
-- Identification de vos forces et talents cachés
-- Premiers outils d'auto-évaluation
+1. Exploration de votre VÉCU : l'échiquier
+2. Identification de vos forces et talents
+3. Premier outil d'auto-évaluation : la carte
 
-#### 🚀 **Niveau 2 : Développement**
+#### 🚀 **Niveau 2 : AGIR**
 
-- Renforcement de votre confiance en vous
-- Développement de votre intuition créative
+- Renforcement de votre CONFIANCE en vous-même
+- Développement de vos VALEURS créatives
 - Acquisition de nouvelles compétences techniques
 
-#### ⚡ **Niveau 3 : Maîtrise**
+⚡ **Niveau 3 : RÉALISER**
 
-- Autonomie créative complète
-- Capacité à "mener cent combats sans risque"
-- Leadership et influence positive
+1. AUTONOMIE créative complète
+2. Capacité à "mener cent combats sans risque"
+3. LEADERSHIP et influence positive
 
-## Pourquoi choisir ResIdig ?
+## Pourquoi choisir ResIdig
 
 ### 🎨 **Créativité sans limites**
 
-Libérez votre potentiel créatif grâce à des méthodes éprouvées et des outils innovants.
+LIBÉREZ votre potentiel techno-créatif grâce à des méthodes d'introspection et des outils innovants
 
 ### 🔧 **Compétences techniques**
 
-Développez vos compétences numériques dans un environnement bienveillant et stimulant.
+DÉVELOPPEZ vos compétences numériques dans un environnement bienveillant et stimulant
 
 ### 🧠 **Connaissance de soi**
 
-Apprenez à mieux vous connaître pour prendre des décisions éclairées et authentiques.
+Apprenez à mieux vous connaître pour DÉCIDER du monde dans lequel vous vivez
 
 ### 🌱 **Évolution continue**
 
-Bénéficiez d'un accompagnement personnalisé pour une croissance durable.
+Bénéficiez d'un accompagnement personnalisé pour une croissance durable
 
 ## Nos publications
 
-Découvrez également nos publications digitales qui complètent votre parcours :
+Découvrez nos publications et complétez votre parcours :
 
-- **Articles spécialisés** sur le développement créatif
-- **Guides pratiques** pour optimiser vos compétences
-- **Retours d'expérience** de la communauté ResIdig
+**Articles spécialisés** sur le DIGITAL
+
+**Laissez-vous GUIDER** pour optimiser vos réalisations
+
+**Retours d'expérience** de la COMMUNAUTÉ **ResIdig**
 
 ## Prêt à commencer ?
 
-Rejoignez la communauté ResIdig et commencez votre transformation dès aujourd'hui. Que vous soyez débutant ou expert, notre plateforme s'adapte à votre niveau et à vos ambitions.
+Rejoignez la communauté ResIdig et commencez votre transformation dès aujourd'hui
 
-**ResIdig** : Votre partenaire pour révéler et développer votre potentiel techno-créatif.
+Que vous soyez débutant ou expert, notre plateforme s'adapte à votre niveau et à vos ambitions
+
+**ResIdig** : Votre partenaire pour révéler et développer votre potentiel techno-créatif
 
 ---
 
