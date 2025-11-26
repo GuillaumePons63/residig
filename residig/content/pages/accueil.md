@@ -5,45 +5,58 @@ description: A trouver
 
 # Qui Sommes Nous ?
 
-Nous sommes une convergence entre **art** et **technologie**. :br Résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation.
+## Nous sommes
+
+Une convergence entre **art** et **technologie**. :br Le résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation qui fait IMAGE
 
 ---
 
+### Nous sommes
+
 ### 3 documentations pour une vision digitale de l’imaginaire
 
-- **PLONGER** dans notre univers digital à travers nos publications, e-publications et articles.
-- **JOUER** en 3 niveaux avec le *Connais-Toi Ψ+Ψ+Ψ* (psi, unité anglo-saxonne de mesure de la pression).
+[PLONGER](/pages/plonger) dans notre univers digital à travers nos publications, e-publications et articles : une aide pour évoluer dans le parcours du *Connais-toi Ψ+Ψ+Ψ : Gnothi Seauton*
+
+---
+
+### Nous sommes
+
+### 3 niveaux pour une vision digitale de l’imaginaire
+
+**JOUER** en 3 niveaux avec le *Connais-Toi Ψ+Ψ+Ψ* (psi, unité anglo-saxonne de mesure de la pression) :
+
+## Jeu interactif
+
+**Niveau 1**
+
+*Le connais-Toi Ψ* est un parcours pour SE CIBLER : → **CARTOGRAPHIE TA VIE**
+
+**Niveau 2**
+
+*Le connais-Toi Ψ+Ψ* est une découverte des 12 vertus, pour manger mieux, respirer mieux, digérer mieux et AGIR en maîtrise des émotions : → **DÉCOUVRE TES VERTUS**
+
+**Niveau 3**
+
+*Le connais-Toi Ψ+Ψ+Ψ* est ton logo-signature individualisé et compatible NFT : → **RÉALISE TON TINTLE**
 
 ---
 
 ## Nos moteurs principaux
 
-- **Codage et digitalité**:br Nous œuvrons à tirer l’esprit au-delà de ses limitations.
-- **Émancipation intellectuelle**:br Renforcer l’identité de l’être par l’exploration de ses capacités à représenter, par les mots, les images et les sons.
-- **Capacité imaginative**:br Valider la production imaginative dans son potentiel à inspirer de nouvelles aspirations.
+**Codage et digitalité**:br Nous œuvrons à tirer l’esprit au-delà de ses limitations
+
+**Émancipation intellectuelle**:br Nous croyons au renforcement de l’identité par l’exploration de ses capacités à représenter le monde, par les mots, les images et les sons
+
+**Capacité imaginative**:br Nous validons la production imaginative dans son potentiel à inspirer de nouvelles aspirations
 
 ---
 
 ### Avec Nous : Notre spécificité
 
-ResIdig offre un mix unique de contenus créatifs, d’expériences interactives et de perspectives pertinentes pour optimiser la découverte de **SOI** en tant que potentiel créatif.
+ResIdig
 
----
-
-## Contenu innovant
-
-Accédez à nos publications et articles, une aide pour évoluer dans le parcours du *Connais-toi Ψ+Ψ+Ψ : Gnothi Seauton*.
-
----
-
-## Jeu interactif
-
-**Niveau 1**:br *Le Connais-Toi Ψ* est un parcours qui se joue du passé, présent et futur, pour cibler et t’orienter dans l’espace-temps : :br → **CARTOGRAPHIE TA VIE**
-
-**Niveau 2**:br *Le Connais-Toi Ψ+Ψ* est une découverte des 12 vertus, ces qualités de l’âme à cultiver, pour manger mieux, respirer mieux, digérer mieux et agir en maîtrise de tes émotions : :br → **DÉCOUVRE TES VERTUS**
-
-**Niveau 3**:br *Le Connais-Toi Ψ+Ψ+Ψ* est la possibilité de réaliser ton logo-signature individualisé et compatible NFT : :br → **RÉALISE TON TINTLE**
+La découverte du potentiel techno-créatif
 
 [![Voir la suite](/img/chessboard.png)](/pages/plonger)
 
-[Voir la suite](/pages/plonger)
+[Voir la suite](/pages/jouer)

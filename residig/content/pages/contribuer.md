@@ -3,16 +3,24 @@ title: Contribuer
 description: Guide pour contribuer au projet
 ---
 
-### Quelle promesse ? Quel investissement ?
+### Quelle promesse
 
-5 euros accès niveau Ψ
+### POUR
 
-15 euros accès niveau Ψ+Ψ
+### Quel investissement ?
 
-35 euros envoi de la trilogie tomes 1 & 2
+5 euros VERSÉS **POUR** 1 accès niveau Ψ
 
-65 euros accompagnement digital en visio conférence 2x1h
+15 euros VERSÉS **POUR** 2 accès niveau Ψ+Ψ
 
-X euros LIBRE
+35 euros VERSÉS **POUR** 1 envoi des tomes 1 & 2 de nos publications
+
+65 euros **POUR** 1 accompagnement digital en visio conférence 2x1h
+
+X euros investissement LIBRE
+
+**PARCE QUE** VOUS VOULEZ
+
+NOUS SOUTENIR
 
 [Nous contacter](/contact)
