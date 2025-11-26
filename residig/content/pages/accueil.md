@@ -1,6 +1,6 @@
 ---
 title: A Propos
-description: A trouver
+description: ResIdig, La découverte du potentiel techno-créatif
 ---
 
 # Qui Sommes Nous ?
