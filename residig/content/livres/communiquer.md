@@ -1,7 +1,7 @@
 ---
 title: COMMUNIQUER DIGITAL
 description: L'être digital ou le savoir-être digital pour une re-création d'une
-  corrélation entre humanité et technologie
+  corrélation entre humanité et technologie avec l'imageProgrammé[copyleft]
 img: /livres/communiquer.png
 ---
 
