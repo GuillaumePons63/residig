@@ -5,8 +5,6 @@ description: A trouver
 
 **Nous sommes une convergence entre art et technologie**
 
-**Je test**
-
 Résultat de l'exploration de notre pratique du code créatif avec processing et de notre rapport à la représentation.
 
 3 documentations sont produites pour une vision digitale de l'imaginaire :
