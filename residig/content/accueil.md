@@ -9,6 +9,8 @@ description: Explore ResIdig, un mix unique de contenus innovant, d’expérienc
 
 Nos publications digitales, nos articles peuvent t’aider à évoluer dans
 
+Test ici
+
 ## Le connais-toi
 
 Jeu-parcours sur 3 niveaux pour augmenter ton autonomie, comprendre ta singularité, acquérir une confiance en toi-même, développer ton intuition et mener “Cent combats sans risque”

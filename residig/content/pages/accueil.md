@@ -5,8 +5,6 @@ description: ResIdig, La découverte du potentiel techno-créatif
 
 # Qui Sommes Nous ?
 
-Ceci est un test
-
 ## Nous sommes
 
 Une convergence entre **art** et **technologie**. :br Le résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation qui fait IMAGE
