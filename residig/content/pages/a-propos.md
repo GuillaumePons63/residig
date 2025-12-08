@@ -5,7 +5,7 @@ description: A trouver
 
 **Nous sommes une convergence entre art et technologie**
 
-**Je test un truc**
+**Je test**
 
 Résultat de l'exploration de notre pratique du code créatif avec processing et de notre rapport à la représentation.
 
