@@ -16,8 +16,6 @@ br
 Jeu-parcours sur 3 niveaux pour augmenter ton autonomie, comprendre ta singularité, acquérir une confiance en toi-même, développer ton intuition et mener “Cent combats sans risque”.
 Le résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation qui fait IMAGE
 
-**Horizontal Rule**
-
 ### **Nous sommes**
 
 ### **3 documentations pour une vision digitale de l’imaginaire**
@@ -25,8 +23,6 @@ Le résultat de l’exploration de notre pratique du **code créatif** avec *Pro
 **PLONGER**
 
 dans notre univers digital à travers nos publications, e-publications et articles : une aide pour évoluer dans le parcours du *Connais-toi Ψ+Ψ+Ψ : Gnothi Seauton*
-
-**Horizontal Rule**
 
 ### **Nous sommes**
 
@@ -48,29 +44,19 @@ dans notre univers digital à travers nos publications, e-publications et articl
 
 *Le connais-Toi Ψ+Ψ+Ψ* est ton logo-signature individualisé et compatible NFT : → **RÉALISE TON TINTLE**
 
-**Horizontal Rule**
-
 ## **Nos moteurs principaux**
 
 **Codage et digitalité**
-
-br
 
 Nous œuvrons à tirer l’esprit au-delà de ses limitations
 
 **Émancipation intellectuelle**
 
-br
-
 Nous croyons au renforcement de l’identité par l’exploration de ses capacités à représenter le monde, par les mots, les images et les sons
 
 **Capacité imaginative**
 
-br
-
 Nous validons la production imaginative dans son potentiel à inspirer de nouvelles aspirations
-
-**Horizontal Rule**
 
 ### **Avec Nous : Notre spécificité**
 
@@ -78,6 +64,6 @@ ResIdig
 
 La découverte du potentiel techno-créatif
 
-![Image d'un echiquier](/img/chessboard.png)
+[![Image d'un echiquier](/img/chessboard.png)](/pages/jouer)
 
 [Voir la suite](/pages/jouer)
