@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr: true,
   compatibilityDate: '2025-05-15',
   devtools: { enabled: true },
   css: [
@@ -7,8 +8,8 @@ export default defineNuxtConfig({
     '~/assets/css/transitions.css'
   ],
   modules: 
-    ['@nuxt/content', 
-    ['nuxt-mail', 
+    ['@nuxt/content',
+      ['nuxt-mail', 
       {
          message: {
            from : process.env.MAIL_TO,
@@ -23,8 +24,7 @@ export default defineNuxtConfig({
         },
       },
 
-  }]
-],
+  }], 'nuxt-component-meta', 'nuxt-studio'],
   content: {
     renderer :{
       anchorLinks: false,
@@ -39,7 +39,16 @@ export default defineNuxtConfig({
         url: 'https://github.com/u2405562098-cloud/residig'
       }
     },
+  },
+   studio: {
+    repository: {
+      provider: 'github',
+      owner: 'u2405562098-cloud',
+      repo: 'https://github.com/u2405562098-cloud/residig/tree/main',
+      branch: 'main', // ou 'master' / autre branche
+      // rootDir: '.', // décommentez si monorepo / sous-dossier
     },
+  },
   app: {
     head: {
       meta: [
