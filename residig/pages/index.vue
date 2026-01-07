@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-const { data } = await useAsyncData(() => queryCollection('index').path('/accueil').first())
+const { data } = await useAsyncData(() => queryCollection('index').path('/content/accueil').first())
 
 useSeoMeta({
     title: data.value?.title,
