@@ -12,11 +12,7 @@ export default defineNuxtConfig({
       ['nuxt-mail', 
       {
          message: {
-<<<<<<< HEAD
            from : process.env.MAIL_TO,
-=======
-           from: process.env.MAIL_TO,
->>>>>>> bb41f9db30187cfb5d6e47bc13cc86cdde2d2968
         to: process.env.MAIL_TO,
       },
       smtp: {
@@ -39,8 +35,8 @@ export default defineNuxtConfig({
       // Utile sur hébergement "custom" (o2switch) pour aider Studio à te reconnaître :
       gitInfo: {
         name: 'residig',           
-        owner: 'u2405562098-cloud',    
-        url: 'https://github.com/u2405562098-cloud/residig'
+        owner: 'GuillaumePons63',    
+        url: 'https://github.com/GuillaumePons63/residig'
       }
     },
   },
