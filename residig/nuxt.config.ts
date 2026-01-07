@@ -43,8 +43,8 @@ export default defineNuxtConfig({
    studio: {
     repository: {
       provider: 'github',
-      owner: '',
-      repo: 'https://github.com/GuillaumePons63/residig',
+      owner: 'GuillaumePons63',
+      repo: 'residig',
       branch: 'main', // ou 'master' / autre branche
       // rootDir: '.', // décommentez si monorepo / sous-dossier
     },
