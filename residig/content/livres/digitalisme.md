@@ -6,8 +6,7 @@ img: /livres/digitalisme.png
 
 # Digitalisme
 
-Bienvenue dans ce document dédié au digitalisme.  
-Vous pouvez ajouter ici vos réflexions, analyses ou notes sur ce sujet.
+Bienvenue dans ce document dédié au digitalisme. :br Vous pouvez ajouter ici vos réflexions, analyses ou notes sur ce sujet.
 
 ## Sommaire
 

@@ -12,6 +12,7 @@ export default defineNuxtConfig({
       ['nuxt-mail', 
       {
          message: {
+           from: process.env.MAIL_TO,
         to: process.env.MAIL_TO,
       },
       smtp: {

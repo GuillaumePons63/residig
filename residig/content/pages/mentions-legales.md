@@ -33,4 +33,4 @@ Ce site utilise [Nuxt Content](https://content.nuxt.com/) pour la gestion et la 
 
 ---
 
-_Dernière mise à jour : [Date de mise à jour]_
+*Dernière mise à jour :* [*Date de mise à jour*]

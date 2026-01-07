@@ -1,30 +1,68 @@
 ---
-title: Communiquer
-description: Les bases et techniques pour mieux communiquer dans la vie personnelle et professionnelle.
+title: COMMUNIQUER DIGITAL
+description: L'être digital ou le savoir-être digital pour une re-création d'une
+  corrélation entre humanité et technologie avec l'imageProgrammé[copyleft]
 img: /livres/communiquer.png
 ---
 
-# Communiquer
+# COMMUNIQUER DIGITAL
 
-La communication est au cœur de toutes les relations humaines. Savoir écouter, exprimer ses idées clairement et comprendre les autres sont des compétences essentielles dans la vie personnelle et professionnelle.
+Tome 1 de la TRILOGIE DIGITALE, un rapport à l’image PROGRAMMÉE\[copyleft], outil de COMMUNICATION re-positionnée comme élan RELATIONNEL
 
-## Pourquoi communiquer ?
+## 4ème de couverture :
 
-La communication permet de partager des informations, de résoudre des conflits et de créer des liens. Elle favorise la collaboration et l’innovation.
+![quatrieme-couverture.png](https://nuxt-studio.s3.fr-par.scw.cloud/quatrieme_Couverture_548253c8d5.png)
 
-## Les clés d’une bonne communication
+## Des QUESTIONS :
 
-- **Écoute active** : Porter attention à l’autre sans interrompre.
-- **Clarté** : Utiliser des mots simples et précis.
-- **Empathie** : Se mettre à la place de l’autre pour mieux comprendre son point de vue.
-- **Feedback** : Donner et recevoir des retours constructifs.
+Quel genre de VISIBILITÉ ?
 
-## Exercices pratiques
+Vis à vis de QUI ? Pourquoi ?
 
-1. Reformulez ce que dit votre interlocuteur pour vérifier votre compréhension.
-2. Pratiquez l’écoute sans juger ni interrompre.
-3. Exprimez vos besoins de façon assertive.
+Quel pouvoir ?
+
+Quel CONTRÔLE possible sur l’imaginaire sachant que l’imagination est propre à chacun ?
+
+Que signifie DOCTRINE ?
+
+Quelle LIBERTÉ de penser ?
+
+Que signifie INFLEXION ?
+
+Que représentent -ISME et -ISTHME ?
+
+## Sommaire
+
+- ACTE I "Nous avons les moyens de vous faire taire"
+- ACTE II DÉFINIR
+- ACTE III "Nout et le compas céleste"
+- ACTE IV "HUMAIN, TROP HUMAIN"
+- ACTE V "COMMUNIQUER DIGITAL"
+
+## Articles - Le voyage de Nout
+
+Naître
+
+Partir
+
+Grandir
+
+Interpréter
+
+Évaluer
+
+Ouvrir
+
+Questionner
+
+Communiquer
+
+## Univers orange
+
+**« SVADISTHANA », ou chakra sacré, siège du SOI, associé au 6, il permet création et joie.**
+
+**Il est l’expression de : je RESSENS**
 
 ---
 
-_Image : communication.jpg_
+*Image : communication.jpg*
