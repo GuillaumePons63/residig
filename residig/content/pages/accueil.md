@@ -10,9 +10,6 @@ description: Explore l’univers ResIdig, un mix unique de contenus innovants,
 Nos publications digitales et nos articles peuvent t’aider à évoluer.
 
 Une convergence entre **art** et **technologie**.
-
-br
-
 Jeu-parcours sur 3 niveaux pour augmenter ton autonomie, comprendre ta singularité, acquérir une confiance en toi-même, développer ton intuition et mener “Cent combats sans risque”.
 Le résultat de l’exploration de notre pratique du **code créatif** avec _Processing_ et de notre rapport à la représentation qui fait IMAGE
 
