@@ -3,17 +3,9 @@ title: A Propos
 description: A trouver
 ---
 
-# ResIdig
+# Avec ResIdig, RÉVÈLE le potentiel techno-créatIf
 
-# Révélez votre
-
-# potentiel
-
-# techno-créatIf
-
-## Qu'est-ce que ResIdig ?
-
-ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour vous accompagner dans la découverte et le développement de votre potentiel créatif et technique
+ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour accompagner dans la découverte et le développement du potentiel créatif et technique
 
 ### Une approche innovante
 
@@ -35,58 +27,58 @@ Notre plateforme combine :
 
 #### 🎯 **Niveau 1 : CIBLER**
 
-1. Exploration de votre VÉCU : l'échiquier
-2. Identification de vos forces et talents
+1. Exploration du VÉCU : l'échiquier
+2. Identification des forces et talents
 3. Premier outil d'auto-évaluation : la carte
 
 #### 🚀 **Niveau 2 : AGIR**
 
-- Renforcement de votre CONFIANCE en vous-même
-- Développement de vos VALEURS créatives
+- Renforcement de la CONFIANCE
+- Développement des VALEURS créatives
 - Acquisition de nouvelles compétences techniques
 
-⚡ **Niveau 3 : RÉALISER**
+#### ⚡ **Niveau 3 : RÉALISER**
 
-1. AUTONOMIE créative complète
-2. Capacité à "mener cent combats sans risque"
-3. LEADERSHIP et influence positive
+1. AUTONOMIE créative
+2. Capacité à imaginer
+3. LEADERSHIP positif
 
 ## Pourquoi choisir ResIdig
 
 ### 🎨 **Créativité sans limites**
 
-LIBÉREZ votre potentiel techno-créatif grâce à des méthodes d'introspection et des outils innovants
+LIBÉRER le potentiel techno-créatif grâce à des méthodes d'introspection et des outils innovants
 
 ### 🔧 **Compétences techniques**
 
-DÉVELOPPEZ vos compétences numériques dans un environnement bienveillant et stimulant
+DÉVELOPPER des compétences numériques dans un environnement stimulant
 
 ### 🧠 **Connaissance de soi**
 
-Apprenez à mieux vous connaître pour DÉCIDER du monde dans lequel vous vivez
+Apprendre à mieux SE connaître pour DÉCIDER du monde dans lequel VIVRE
 
 ### 🌱 **Évolution continue**
 
-Bénéficiez d'un accompagnement personnalisé pour une croissance durable
+Bénéficier d'un accompagnement personnalisé pour une croissance durable
 
 ## Nos publications
 
-Découvrez nos publications et complétez votre parcours :
+Découvrir nos publications et compléter le parcours :
 
-**Articles spécialisés** sur le DIGITAL
+**Articles spécialisés** sur le DIGITAL\_ISTHME
 
-**Laissez-vous GUIDER** pour optimiser vos réalisations
+**GUIDES** pour optimiser les réalisations
 
 **Retours d'expérience** de la COMMUNAUTÉ **ResIdig**
 
 ## Prêt à commencer ?
 
-Rejoignez la communauté ResIdig et commencez votre transformation dès aujourd'hui
+Rejoindre la communauté ResIdig et commencer la transformation dès aujourd'hui
 
-Que vous soyez débutant ou expert, notre plateforme s'adapte à votre niveau et à vos ambitions
+Débutant ou expert, la plateforme s'adapte à tous
 
-**ResIdig** : Votre partenaire pour révéler et développer votre potentiel techno-créatif
+## **ResIdig** : PARTENAIRE pour révéler et développer le potentiel techno-créatif
 
 ---
 
-*Explorez, apprenez, créez, évoluez avec ResIdig*
+*Explorer, apprendre, créer, évoluer avec ResIdig*
