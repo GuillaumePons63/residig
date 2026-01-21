@@ -1,17 +1,23 @@
 ---
 title: COMMUNIQUER DIGITAL
-description: L'être digital ou le savoir-être digital pour une re-création d'une
-  corrélation entre humanité et technologie avec l'imageProgrammé[copyleft]
+description: L'être digital ou le savoir-être digital pour humanité et
+  technologie avec l'imageProgrammé[copyleft]
 img: /livres/communiquer.png
-----
+seo:
+  title: COMMUNIQUER DIGITAL
+  description: L'être digital ou le savoir-être digital pour une re-création d'une
+    corrélation entre humanité et technologie avec l'imageProgrammé[copyleft]
+---
+
+-
 
 # COMMUNIQUER DIGITAL
 
-Tome 1 de la TRILOGIE DIGITALE, un rapport à l’image PROGRAMMÉE\[copyleft], outil de COMMUNICATION re-positionnée comme élan RELATIONNEL
+Tome 1 de la **TRILOGIE DIGITALE**, un rapport à l’**imagePogrammée\[copyleft]**, outil de COMMUNICATION re-positionnée comme élan RELATIONNEL. Des QUESTIONS peuvent survenir à la lecture. Elles permettent de sortir d’un rapport d’évidence à l’image prise comme VÉRITÉ.
 
 ## 4ème de couverture :
 
-![quatrieme-couverture.png](https://nuxt-studio.s3.fr-par.scw.cloud/quatrieme_Couverture_548253c8d5.png)
+![File preview](https://residig.fr/livres/quatrieme-couverture.png)
 
 ## Des QUESTIONS :
 
@@ -59,10 +65,14 @@ Communiquer
 
 ## Univers orange
 
+![File preview](https://residig.fr/asset/couvNacre.png)
+
 **« SVADISTHANA », ou chakra sacré, siège du SOI, associé au 6, il permet création et joie.**
 
 **Il est l’expression de : je RESSENS**
 
 ---
 
-*Image : communication.jpg*
+![File preview](https://residig.fr/asset/couvDragon.png)
+
+[Voir le tome 2](/livres/esthetic)
