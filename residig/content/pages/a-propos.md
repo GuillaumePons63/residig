@@ -82,3 +82,7 @@ Débutant ou expert, la plateforme s'adapte à tous
 ---
 
 *Explorer, apprendre, créer, évoluer avec ResIdig*
+
+![File preview](https://residig.fr/asset/buttonLight.png)
+
+*C*ontacter
