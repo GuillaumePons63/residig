@@ -7,7 +7,9 @@ description: Explore l’univers ResIdig, un mix unique de contenus innovants,
 
 # **Nous Sommes**
 
-Une convergence entre **art** et **technologie**. Résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation qui fait IMAGE.
+# Une convergence entre **art** et **technologie**
+
+Résultat de l’exploration de notre pratique du **code créatif** avec *Processing* et de notre rapport à la représentation qui fait IMAGE.
 
 # Le Connais-toi
 
