@@ -75,4 +75,4 @@ Communiquer
 
 ![File preview](https://residig.fr/asset/couvDragon.png)
 
-[Voir le tome 2](/livres/esthetiK)
+[Voir le tome 2](/livres/esthetik.md)
