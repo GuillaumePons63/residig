@@ -1,14 +1,23 @@
 ---
-title: Communiquer
-description: Les bases et techniques pour mieux communiquer dans la vie
-  personnelle et professionnelle.
+title: CIBLER avec ResIdig Le connais-toi
+description: L'échiquier vous permet d'interroger votre parcours de VIE
 img: /img/chessboard.png
+seo:
+  title: Communiquer
+  description: Les bases et techniques pour mieux communiquer dans la vie
+    personnelle et professionnelle.
 ---
 
-# lorem ipsum
+## CIBLER
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+[Engage ]{style="display: inline-block; border: none; padding: 0cm"}ton coeur dans le « Connais-Toi », parcours de jeu qui éclaire en niveauΨ tes destinations passées, présentes et futures.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+[Qui ? Quoi ? Que ? Comment ? Pourquoi ? Pour quoi ? Répondre succinctement à ces questions : **Naître Partir Grandir Interpréter Evaluer Ouvrir Questionner Communiquer**]{style="display: inline-block; border: none; padding: 0cm"}
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Embarquer et cartographier l’aventure audacieuse de la révélation de Soi-même.
+
+REMPLIR L'ÉCHIQUIER
+
+ET COMMENTER LES RÉPONSES
+
+**CARTOGRAPHIER**[ **= Naître** *Où, Quand*]{style="display: inline-block; border: none; padding: 0cm"}[ **Partir**]{style="display: inline-block; border: none; padding: 0cm"}[ Où, Quand]{style="font-weight: normal"}[ **Grandir**]{style="display: inline-block; border: none; padding: 0cm"}[ Où, Quand]{style="font-weight: normal"}[ **Interpréter** ]{style="display: inline-block; border: none; padding: 0cm"}[Où, Quand]{style="font-weight: normal"}[ **Evaluer**]{style="display: inline-block; border: none; padding: 0cm"}[ Où, Quand]{style="font-weight: normal"}[ **Ouvrir** ]{style="display: inline-block; border: none; padding: 0cm"}[Où, Quand]{style="font-weight: normal"}[ **Questionner** ]{style="display: inline-block; border: none; padding: 0cm"}[Où, Quand]{style="font-weight: normal"}[ **Communiquer** ]{style="display: inline-block; border: none; padding: 0cm"}[Où, Quand]{style="font-weight: normal"}
