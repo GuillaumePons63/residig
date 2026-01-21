@@ -1,6 +1,6 @@
 ---
-title: Contribuer
-description: Guide pour contribuer au projet
+title: Contribuer à ResIdig
+description: Quelle promesse pour quel investissement
 ---
 
 ### Quelle promesse
@@ -19,8 +19,6 @@ description: Guide pour contribuer au projet
 
 X euros investissement LIBRE
 
-**PARCE QUE** VOUS VOULEZ
-
-NOUS SOUTENIR
+**PARCE QUE** VOUS VOULEZ NOUS SOUTENIR
 
 [Nous contacter](/contact)

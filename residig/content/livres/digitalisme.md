@@ -31,7 +31,9 @@ En TOME 3 de la TRILOGIE DIGITALE, les images sont déclinées comme dans un did
 
 ![File preview](https://residig.fr/asset/couv-Digital-Isthme.png)
 
-**« Anahat », chakra du coeur, il est le pont entre terre et ciel, associé au 12. Son expression : j’AIME**
+**« Anahat », chakra du coeur, il est le pont entre terre et ciel, associé au 12.**
+
+**Son expression : j’AIME**
 
 ![File preview](https://residig.fr/photoProfil.jpg)
 
