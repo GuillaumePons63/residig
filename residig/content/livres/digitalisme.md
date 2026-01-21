@@ -15,13 +15,15 @@ En TOME 3 de la TRILOGIE DIGITALE, les images sont déclinées comme dans un did
 
 ## Sommaire
 
-**Cibler** **La cible/ La figure de l'archer/ L'infini et l'infinité/ Le hasard/ Le beau et la beauté/ La danse**
+#### **Cibler**
 
-**Agir**
+**La cible/ La figure de l'archer/ L'infini et l'infinité/ Le hasard/ Le beau et la beauté/ La danse**
+
+#### **Agir**
 
 **La trochoïde/ La respiration pixellisée/ L'aquarium en 2 tableaux/ L'interaction digitale/ L'expérience multi-sensorielle/ La finalité**
 
-**Réaliser**
+#### **Réaliser**
 
 **L'humaine interaction/ Analyse des mots 2014/ Bleu-Blanc-Rouge 2014/ LI-IL2015/ L'aquarium 2018/ Matrice de représentabilité**
 
