@@ -59,6 +59,6 @@ Nous validons l'IMAGINAIRE dans son potentiel à inspirer de nouvelles aspiratio
 
 La découverte du potentiel techno-créatif
 
-![Image d'un echiquier](/img/chessboard.png)
+![File preview](https://residig.fr/asset/buttonLight.png)
 
 [Voir la suite](/pages/jouer)
