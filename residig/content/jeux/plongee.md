@@ -1,6 +1,6 @@
 ---
 title: CIBLER
-description: Avec ResIdig, Le connais-toi, L'échiquier vous permet d'interroger
+description: Avec ResIdig, Le Connais-toi, L'échiquier vous permet d'interroger
   votre parcours de VIE
 img: /img/chessboard.png
 seo:
@@ -23,4 +23,4 @@ REMPLIR L'ÉCHIQUIER
 
 ![File preview](https://residig.fr/asset/buttonLight.png)
 
-#### []{style="display: inline-block; border: none; padding: 0cm"}CONTACTER-moi
+#### []{style="display: inline-block; border: none; padding: 0cm"}[CONTACTER-moi](/contact)

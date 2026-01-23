@@ -1,9 +1,6 @@
 ---
-title: A Propos
-description: Révéler le potentiel techno-créatif avec Le connais-toi
-seo:
-  title: A Propos
-  description: A trouver
+title: A Propos ResIdig
+description: Révéler le potentiel techno-créatif avec Le Connais-toi
 ---
 
 # Avec Le Connais-toi
@@ -88,4 +85,4 @@ Débutant ou expert, la plateforme s'adapte à tous
 
 ![File preview](https://residig.fr/asset/buttonLight.png)
 
-*C*ontacter
+## [Contacter](/contact)

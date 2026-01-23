@@ -1,7 +1,7 @@
 ---
-title: Jouer
+title: Jouer Le Connais-toi
 description: Plonger dans l'univers des réprésentations que sont les
-  imagesProgrammées[copyleft]
+  imagesProgrammées[copyleft] en environnement Processing
 ---
 
 # Plonge

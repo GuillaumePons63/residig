@@ -1,6 +1,9 @@
 ---
-title: Plonger
+title: Plonger dans ResIdig
 description: "Publications sur ResIdig : LES 3 tomes de la TRILOGIE DIGITALE by Youna"
+seo:
+  title: Plonger
+  description: "Publications sur ResIdig : LES 3 tomes de la TRILOGIE DIGITALE by Youna"
 ---
 
 # Une expérience esthétique
@@ -15,6 +18,16 @@ SAVOIR DEVENIR est ce que nous appelons la ***digitalité***. Elle est la princi
 
 ## Booster l'imaginaire et les horizons de vie
 
-![Couverture livre Communiquer digital](/livres/communiquer.png)![Couverture livre Esthetic](/livres/esthetic.png)![Couverture livre Digitalisme](/livres/digitalisme.png)
+**[COMMUNIQUER](/livres/communiquer)** [DIGITAL](/livres/communiquer)
 
-[Voir la suite](/pages/contribuer)
+![Couverture livre Communiquer digital](/livres/communiquer.png)
+
+**[EsthétiK](/livres/esthetik)** [DIGITALE](/livres/esthetik)
+
+![Couverture livre Esthetic](/livres/esthetic.png)
+
+[DIGITAL\_ISTHME](/livres/digitalisme)
+
+![Couverture livre Digitalisme](/livres/digitalisme.png)
+
+[COMMANDER](/contact)

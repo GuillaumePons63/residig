@@ -1,8 +1,13 @@
 ---
-title: Le connais-toi
+title: Le Connais-toi
 description: Explorer l’univers ResIdig, un mix unique de contenus innovants,
   d’expériences interactives et de parcours introspectifs pour révéler la
   créativité et l'autonomie.
+seo:
+  title: Le connais-toi
+  description: Explorer l’univers ResIdig, un mix unique de contenus innovants,
+    d’expériences interactives et de parcours introspectifs pour révéler la
+    créativité et l'autonomie.
 ---
 
 # **Nous Sommes**
