@@ -38,5 +38,3 @@ En TOME 3 de la TRILOGIE DIGITALE, les images sont déclinées comme dans un did
 ![File preview](https://residig.fr/photoProfil.jpg)
 
 ## [Contacter l'auteure](/contact)
-
----

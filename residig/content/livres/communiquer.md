@@ -5,8 +5,6 @@ description: L'être digital ou le savoir-être digital pour humanité et
 img: /livres/communiquer.png
 ---
 
--
-
 # COMMUNIQUER DIGITAL
 
 Tome 1 de la **TRILOGIE DIGITALE**, un rapport à l’**imagePogrammée\[copyleft]**, outil de COMMUNICATION re-positionnée comme élan RELATIONNEL.
