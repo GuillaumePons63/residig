@@ -1,6 +1,9 @@
 ---
 title: A Propos
-description: A trouver
+description: Révéler le potentiel techno-créatif avec Le connais-toi
+seo:
+  title: A Propos
+  description: A trouver
 ---
 
 # Avec Le Connais-toi

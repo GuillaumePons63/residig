@@ -1,6 +1,6 @@
 ---
 title: Partenariat
-description: Informations légales du site
+description: ResiIdig recherche des partenaires pour Le connais-toi Serious Game
 ---
 
 # Partenariat
@@ -27,8 +27,8 @@ description: Informations légales du site
 
 Nous serions ravis d'échanger avec vous sur les opportunités de partenariat.
 
-**Contactez-nous :** [contact@residig.fr](mailto:contact@residig.fr)
+**Contactez-nous :** <contact@residig.fr>
 
 ---
 
-_Plus d'informations sur nos offres de partenariat seront disponibles prochainement._
+*Plus d'informations sur nos offres de partenariat seront disponibles prochainement.*

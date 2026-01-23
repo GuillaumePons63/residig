@@ -1,6 +1,6 @@
 ---
 title: Contribuer à ResIdig
-description: Quelle promesse pour quel investissement
+description: Quelle promesse pour quel investissement autour du serious game Le connais-toi
 ---
 
 ### Quelle promesse

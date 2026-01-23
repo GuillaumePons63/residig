@@ -1,6 +1,7 @@
 ---
 title: Jouer
-description: Il conviens d'ajouter une description ici
+description: Plonger dans l'univers des réprésentations que sont les
+  imagesProgrammées[copyleft]
 ---
 
 # Plonge

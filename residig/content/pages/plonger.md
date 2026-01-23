@@ -1,11 +1,13 @@
 ---
-title: Publications
-description: LES 3 tomes de la TRILOGIE DIGITALE by Youna
+title: Plonger
+description: "Publications sur ResIdig : LES 3 tomes de la TRILOGIE DIGITALE by Youna"
 ---
 
 # Une expérience esthétique
 
-**DIGITAL-ISTHME** ***Thèse indépendante en 3 tomes***
+## **DIGITAL\_ISTHME**
+
+***Thèse indépendante en 3 tomes***
 
 « FAIRE IMAGE » - de Soi -
 
