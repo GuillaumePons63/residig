@@ -21,3 +21,9 @@ Cuisiner
 Cultiver
 
 Découvre tes valeurs pour Agir
+
+### POUR DÉVELOPPER LE CONNAIS-TOI
+
+![Image preview](https://residig.fr/photoProfil.jpg)
+
+## [CONTRIBUER](/pages/contribuer)

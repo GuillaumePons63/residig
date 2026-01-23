@@ -16,3 +16,9 @@ seo:
 []{style="display: inline-block; border: none; padding: 0cm"}[Participer aux ventes aux enchères format NFT]{style="text-decoration: none"}
 
 Découvrir les autres TINTLE
+
+### POUR DÉVELOPPER LE CONNAIS-TOI
+
+![Image preview](https://residig.fr/photoProfil.jpg)
+
+## [CONTRIBUER](/pages/contribuer)
