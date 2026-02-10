@@ -1,8 +1,5 @@
 ---
-title: Communiquer
-description: Les bases et techniques pour mieux communiquer dans la vie
-  personnelle et professionnelle.
-img: /img/chessboard.png
+title: Plongée
 ---
 
 # lorem ipsum

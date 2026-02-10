@@ -11,7 +11,7 @@ Tome 1 de la TRILOGIE DIGITALE, un rapport à l’image PROGRAMMÉE\[copyleft], 
 
 ## 4ème de couverture :
 
-![quatrieme-couverture.png](https://nuxt-studio.s3.fr-par.scw.cloud/quatrieme_Couverture_548253c8d5.png)
+![quatrieme-couverture.png](/livres/quatrieme-couverture.png)
 
 ## Des QUESTIONS :
 
