@@ -8,26 +8,26 @@ seo:
 
 # Une expérience esthétique
 
-## **DIGITAL\_ISTHME**
+## **DIGITAL_ISTHME**
 
-***Thèse indépendante en 3 tomes***
+**_Thèse indépendante en 3 tomes_**
 
 « FAIRE IMAGE » - de Soi -
 
-SAVOIR DEVENIR est ce que nous appelons la ***digitalité***. Elle est la principale capacité de l’être digital, la capacité d’individuation dans un monde en excès d’artificialisation. Par une réconciliation technique-humanité, langage-machine et puissance créatrice, le digital-isthme ambitionne d’être une « Skholé » pour acquérir les fondamentaux de la compréhension de Soi dans le monde.
+SAVOIR DEVENIR est ce que nous appelons la **_digitalité_**. Elle est la principale capacité de l’être digital, la capacité d’individuation dans un monde en excès d’artificialisation. Par une réconciliation technique-humanité, langage-machine et puissance créatrice, le digital-isthme ambitionne d’être une « Skholé » pour acquérir les fondamentaux de la compréhension de Soi dans le monde.
 
 ## Booster l'imaginaire et les horizons de vie
 
-**[COMMUNIQUER](/livres/communiquer)** [DIGITAL](/livres/communiquer)
+[**[COMMUNIQUER DIGITAL](/livres/communiquer)**](/livres/communiquer)
 
-![Couverture livre Communiquer digital](/livres/communiquer.png)
+[![Couverture livre Communiquer digital](/livres/communiquer.png)](/livres/communiquer)
 
-**[EsthétiK](/livres/esthetik)** [DIGITALE](/livres/esthetik)
+[**[ESTHÉTIK DIGITALE](/livres/esthetik)**](/livres/esthetik)
 
-![Couverture livre Esthetic](/livres/esthetic.png)
+[![Couverture livre Esthetic](/livres/esthetic.png)](/livres/esthetik)
 
-[DIGITAL\_ISTHME](/livres/digitalisme)
+[**[DIGITAL_ISTHME](/livres/digitalisme)**](/livres/digitalisme)
 
-![Couverture livre Digitalisme](/livres/digitalisme.png)
+[![Couverture livre Digitalisme](/livres/digitalisme.png)](/livres/digitalisme)
 
 [COMMANDER](/contact)

@@ -13,6 +13,7 @@ const route = useRoute()
 const router = useRouter()
 
 const { data } = await useAsyncData(
+    () => `jeux-${route.params.name}`,
     () => queryCollection('jeux').path(`/jeux/${route.params.name}`).first()
 )
 

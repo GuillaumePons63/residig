@@ -13,6 +13,7 @@ const route = useRoute()
 const router = useRouter()
 
 const { data } = await useAsyncData(
+    () => `livres-${route.params.name}`,
     () => queryCollection('livres').path(`/livres/${route.params.name}`).first()
 )
 

@@ -13,14 +13,14 @@ description: Plonger dans l'univers des représentations que sont les
 
 ## [Ψ Ta première plongée en toi-même](/jeux/plongee)
 
-![Image représentant un échiquier](/img/chessboard.png)
+[![Image représentant un échiquier](/img/chessboard.png)](/jeux/plongee)
 
 ## [Ψ Ψ Ton MITSEIN aux vertus](/jeux/vertus)
 
-![Image représentant la rose des vertus. Semblable à une rose des vents](/img/RosedesVertus.png)
+[![Image représentant la rose des vertus. Semblable à une rose des vents](/img/RosedesVertus.png)](/jeux/vertus)
 
 ## [Ψ Ψ Ψ Ta réalisation NFT](/jeux/realiser)
 
-![Image représentant un tintle](/img/tintleX.png)
+[![Image représentant un tintle](/img/tintleX.png)](/jeux/realiser)
 
 [Voir la suite](/pages/contribuer)
