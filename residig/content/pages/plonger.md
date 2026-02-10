@@ -18,15 +18,15 @@ SAVOIR DEVENIR est ce que nous appelons la **_digitalité_**. Elle est la princi
 
 ## Booster l'imaginaire et les horizons de vie
 
-[**[COMMUNIQUER DIGITAL](/livres/communiquer)**](/livres/communiquer)
+[[COMMUNIQUER DIGITAL](/livres/communiquer)](/livres/communiquer)
 
 [![Couverture livre Communiquer digital](/livres/communiquer.png)](/livres/communiquer)
 
-[**[ESTHÉTIK DIGITALE](/livres/esthetik)**](/livres/esthetik)
+[[ESTHÉTIK DIGITALE](/livres/esthetik) ](/livres/esthetik)
 
 [![Couverture livre Esthetic](/livres/esthetic.png)](/livres/esthetik)
 
-[**[DIGITAL_ISTHME](/livres/digitalisme)**](/livres/digitalisme)
+[[DIGITAL_ISTHME](/livres/digitalisme)](/livres/digitalisme)
 
 [![Couverture livre Digitalisme](/livres/digitalisme.png)](/livres/digitalisme)
 
