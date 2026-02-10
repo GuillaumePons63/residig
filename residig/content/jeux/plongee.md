@@ -1,11 +1,30 @@
 ---
+<<<<<<< HEAD
 title: Plongée
+=======
+title: CIBLER
+description: Avec ResIdig, Le Connais-toi, L'échiquier vous permet d'interroger
+  votre parcours de VIE
+img: /img/chessboard.png
+seo:
+  title: Communiquer
+  description: Les bases et techniques pour mieux communiquer dans la vie
+    personnelle et professionnelle.
+>>>>>>> 462634a382ddeae933da30fd8fa4f678e4da514d
 ---
 
-# lorem ipsum
+## CIBLER c'est Engager son coeur dans le « Connais-Toi », parcours de jeu qui éclaire en niveauΨ les destinations passées, présentes et futures, les espaces-temps
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#### [**Naître Partir Grandir Interpréter Evaluer Ouvrir Questionner Communiquer** *Où, Quand ? Qui ? Quoi ? Que ? Comment ? Pourquoi ? Pour quoi ?*]{style="display: inline-block; border: none; padding: 0cm"}
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Répondre à ces questions
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Embarquer et cartographier l’aventure audacieuse de la révélation de Soi-même.
+
+REMPLIR L'ÉCHIQUIER
+
+#### [**Pour CARTOGRAPHIER**]{style="display: inline-block; border: none; padding: 0cm"}
+
+![File preview](https://residig.fr/asset/buttonLight.png)
+
+#### []{style="display: inline-block; border: none; padding: 0cm"}[CONTACTER-moi](/contact)

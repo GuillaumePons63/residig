@@ -7,15 +7,15 @@ description: Informations légales du site
 
 ## Éditeur du site
 
-- **Nom de l'entreprise ou du particulier** : [Votre Nom ou Raison Sociale]
+- **Nom de l'entreprise ou du particulier** : [ResIdig]
 - **Adresse** : [Votre adresse complète]
 - **Téléphone** : [Votre numéro de téléphone]
-- **Email** : [Votre adresse email]
+- **Email** : [youna\@residig.fr]
 - **SIRET** : [Votre numéro SIRET]
 
 ## Hébergeur
 
-- **Nom de l'hébergeur** : [Nom de l'hébergeur]
+- **Nom de l'hébergeur** : o2switch
 - **Adresse** : [Adresse de l'hébergeur]
 - **Téléphone** : [Téléphone de l'hébergeur]
 
@@ -33,4 +33,4 @@ Ce site utilise [Nuxt Content](https://content.nuxt.com/) pour la gestion et la 
 
 ---
 
-*Dernière mise à jour :* [*Date de mise à jour*]
+*Dernière mise à jour :*&#x32;3/01/2026

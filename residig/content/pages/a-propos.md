@@ -1,43 +1,88 @@
 ---
-title: A Propos
-description: A trouver
+title: A Propos ResIdig
+description: Révéler le potentiel techno-créatif avec Le Connais-toi
 ---
 
-**Nous sommes une convergence entre art et technologie**
+# Avec Le Connais-toi
 
-Résultat de l'exploration de notre pratique du code créatif avec processing et de notre rapport à la représentation.
+# RÉVÉLER le potentiel techno-créatIf
 
-3 documentations sont produites pour une vision digitale de l'imaginaire :
+ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour accompagner la découverte et le développement du potentiel créatif et technique
 
-- **PLONGER** dans notre univers digital à travers nos publications, E-publications et articles
-- **JOUER** en 3 niveaux avec le Connais-Toi Ψ+Ψ+Ψ (psi unité anglosaxonne de mesure de la pression)
+### Une approche innovante
 
-## Nos moteurs principaux et nécessaires
+Notre plateforme combine :
 
-### • Codage et digitalité
+**Jeu Sérieux**
 
-Nous œuvrons à tirer l'esprit au-delà de ses limitations
+**Expériences interactives**
 
-### • Émancipation intellectuelle
+**Parcours personnalisés**
 
-Nous nous donnons pour but de renforcer l'identité de l'être par l'exploration de ses capacités à représenter, par les mots, les images et les sons
+**Outils d'introspection**
 
-### • Capacité imaginative
+## Le parcours Le connais-toi
 
-Nous validons la production imaginative dans son potentiel à inspirer de nouvelles aspirations
+### 3 niveaux pour une transformation complète
 
-## Avec Nous : Notre spécificité
+#### 🎯 **Niveau 1 : CIBLER**
 
-ResIdig offre un mixte unique de contenus créatifs, d'expériences interactives, et de perspectives pertinentes pour optimiser la découverte de SOI en tant que potentiel créatif.
+1. Exploration du VÉCU : [L'échiquier](/jeux/plongee)
+2. Identification des forces et talents
+3. Premier outil d'auto-évaluation : la carte
 
-### Contenu innovant
+#### 🚀 **Niveau 2 : AGIR**
 
-Accéder à nos publications, à nos articles qui sont une aide pour évoluer dans le parcours du Connais-toi Ψ+Ψ+Ψ : Gnothi Seauton
+- Renforcement de la CONFIANCE
+- Développement des VALEURS créatives
+- Acquisition de nouvelles compétences techniques
 
-### Jeu interactif
+#### ⚡ **Niveau 3 : RÉALISER**
 
-**Niveau 1** - Le Connais-Toi Ψ est un parcours qui se joue du passé, présent et futur, pour Cibler et t'orienter dans l'espace-temps : :br **CARTOGRAPHIE TA VIE**
+1. AUTONOMIE créative
+2. Capacité à imaginer
+3. LEADERSHIP positif
 
-**Niveau 2** - Le Connais-Toi Ψ+Ψ est une découverte des 12 vertus, ces qualités de l'âme à cultiver, pour manger mieux, respirer mieux, digérer mieux et Agir en maîtrise de tes émotions : :br **DÉCOUVRE TES VERTUS**
+## Pourquoi choisir ResIdig
 
-**Niveau 3** - Le Connais-Toi Ψ+Ψ+Ψ est la possibilité de réaliser ton logo-signature individualisé et compatible NFT : :br **RÉALISE TON TINTLE**
+### 🎨 **Créativité sans limites**
+
+**LIBÉRER** le potentiel techno-créatif grâce à des méthodes d'introspection et des outils innovants
+
+### 🔧 **Compétences techniques**
+
+**DÉVELOPPER** des compétences numériques dans un environnement stimulant
+
+### 🧠 **Connaissance de soi**
+
+Apprendre à mieux SE connaître pour **DÉCIDER** du monde dans lequel VIVRE
+
+### 🌱 **Évolution continue**
+
+Bénéficier d'un accompagnement personnalisé pour une croissance durable
+
+## Nos publications
+
+Découvrir nos publications et compléter le parcours :
+
+**Articles spécialisés** sur le [DIGITAL\_ISTHME](/pages/plonger)
+
+**GUIDES** pour optimiser les réalisations
+
+**Retours d'expérience** de la COMMUNAUTÉ **ResIdig**
+
+## Prêt à commencer ?
+
+Rejoindre la communauté ResIdig et commencer la transformation dès aujourd'hui
+
+Débutant ou expert, la plateforme s'adapte à tous
+
+## **ResIdig** : PARTENAIRE pour révéler et développer le potentiel techno-créatif
+
+---
+
+*Explorer, apprendre, créer, évoluer avec ResIdig*
+
+![File preview](https://residig.fr/asset/buttonLight.png)
+
+## [Contacter](/contact)
