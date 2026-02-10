@@ -17,11 +17,7 @@ Les QUESTIONS permettent de sortir d’un rapport d’évidence à l’image pri
 
 ## 4ème de couverture :
 
-<<<<<<< HEAD
-![quatrieme-couverture.png](/livres/quatrieme-couverture.png)
-=======
 ![File preview](https://residig.fr/livres/quatrieme-couverture.png)
->>>>>>> 462634a382ddeae933da30fd8fa4f678e4da514d
 
 ## Des QUESTIONS :
 
