@@ -5,7 +5,7 @@ description: Révéler le potentiel techno-créatif avec Le Connais-toi
 
 # Avec Le Connais-toi
 
-# RÉVÉLER le potentiel techno-créatIf
+# RÉVÉLONS le potentiel techno-créatIf
 
 ResIdig est bien plus qu'un simple jeu en ligne. C'est un **écosystème complet** conçu pour accompagner la découverte et le développement du potentiel créatif et technique
 
