@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "better-sqlite3": "^12.6.2",
     "dotenv": "^17.2.1",
     "nuxt": "^4.2.2",
     "nuxt-component-meta": "^0.16.0",

@@ -25,6 +25,14 @@
                     </svg>
                     LinkedIn
                 </a>
+                <a href="https://www.youtube.com/@clubdes5183" target="_blank" rel="noopener" class="youtube-link"
+                    aria-label="YouTube">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
+                        <path
+                            d="M23.498 6.186a2.997 2.997 0 0 0-2.11-2.117C19.509 3.5 12 3.5 12 3.5s-7.509 0-9.388.569A2.997 2.997 0 0 0 .502 6.186 31.62 31.62 0 0 0 0 12a31.62 31.62 0 0 0 .502 5.814 2.997 2.997 0 0 0 2.11 2.117C4.491 20.5 12 20.5 12 20.5s7.509 0 9.388-.569a2.997 2.997 0 0 0 2.11-2.117A31.62 31.62 0 0 0 24 12a31.62 31.62 0 0 0-.502-5.814zM9.75 15.568V8.432L16.5 12l-6.75 3.568z" />
+                    </svg>
+                    YouTube
+                </a>
             </div>
 
         </div>
@@ -150,6 +158,25 @@ h1 {
 
 .linkedin-link:hover {
     color: #004182;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.youtube-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: #ff0000;
+    text-decoration: none;
+    font-weight: 500;
+    background: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0;
+    transition: all 0.2s;
+}
+
+.youtube-link:hover {
+    color: #cc0000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
